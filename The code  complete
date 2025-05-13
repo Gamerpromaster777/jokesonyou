@@ -1,9 +1,9 @@
 import random
 import flet as ft
-
+#https://flet.dev/docs/controls/ 
 def main(page: ft.Page):
     # Page settings
-    page.title = "The best joke simulator inspired by https://bestlifeonline.com/actually-funny-bad-jokes/ amd"
+    page.title = "The best joke simulator inspired by https://bestlifeonline.com/actually-funny-bad-jokes/ and https://flet.dev/docs/controls/text/"
     page.bgcolor = ft.colors.LIGHT_BLUE_100
     page.padding = 20
 
